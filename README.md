@@ -16,7 +16,7 @@ This project involves the development of a comprehensive **Power BI Dashboard** 
 * **Visualization:** Area Charts, Donut Charts, and Heat Maps
 
 ## Dashboard Previews
-![Overview](dashboard_1.png)
-![Sales Trends](dashboard_2.png)
-![Outlet Analysis](dashboard_3.png)
-![Product Details](dashboard_4.png)
+![Overview](Dashboard_1.png)
+![Sales Trends](Dashboard_2.png)
+![Outlet Analysis](Dashboard_3.png)
+![Product Details](Dashboard_4.png)
